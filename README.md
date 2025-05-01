@@ -18,3 +18,5 @@ This Python code uses the Hugging Face Transformers library to perform text summ
 The script begins by importing the necessary libraries and defining the summarization function. It then includes an example usage section where an article about artificial intelligence is summarized. The original article is printed first, followed by the summarized version. The summarization process is performed using the BART model, a transformer model known for its effectiveness in generating human-like text. This tool is ideal for automating the summarization of long texts, making it useful for applications such as news articles, research papers, or business reports.
 
 Output:
+
+![Image](https://github.com/user-attachments/assets/fa2f6a39-a2a4-4c51-a2b6-6f436a2e44dc)
